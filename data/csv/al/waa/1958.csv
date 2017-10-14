@@ -1,0 +1,98 @@
+1,Mickey Mantle#\mantlmi01,26,NYY,150,654,64,6,1,-5,-1,65,6.7,19,85,8.7,.545,.542,9.2,-0.6,89,$65000,Amateur Free Agent,*8
+2,Al Kaline\kalinal01,23,DET,146,607,20,5,-2,26,-6,43,4.6,19,62,6.5,.532,.529,3.6,2.2,35,$29000,Amateur Free Agent--bonus baby,*9/8
+3,Bob Cerv\cervbo01,33,KCA,141,571,40,1,-2,11,-6,43,4.5,18,61,6.3,.533,.529,5.2,0.4,50,,Purchased,*7
+4,Rocky Colavito\colavro01,24,CLE,143,578,52,-4,-2,-1,-7,39,4.0,18,56,5.8,.529,.526,5.9,-0.8,57,,Amateur Free Agent,*93/71
+5,Pete Runnels*\runnepe01,30,BOS,147,666,26,4,-1,4,1,34,3.5,19,53,5.5,.525,.523,5.0,0.6,49,,Traded,*43
+6,Norm Siebern*\siebeno01,24,NYY,134,532,22,-0,2,12,-6,30,3.1,16,46,4.8,.524,.520,3.5,0.6,34,$7500,Amateur Free Agent,*78
+7,Minnie Minoso\minosmi01,32,CLE,149,638,32,-1,-0,6,-7,29,3.0,19,48,4.9,.521,.519,4.4,-0.2,43,$40000,Traded,*7/5
+8,Vic Power\powervi01,30,2TM,145,620,22,1,1,7,-3,28,2.9,19,47,4.8,.521,.510,4.1,0.4,40,,Traded,534/67
+9,Jackie Jensen\jenseja01,31,BOS,154,654,35,0,-1,0,-7,28,2.9,20,48,4.9,.520,.519,4.9,-0.8,48,,Traded,*9/7
+10,Luis Aparicio\aparilu01,24,CHW,145,604,-10,6,1,18,9,22,2.3,19,41,4.2,.517,.515,2.3,2.9,23,$18000,Amateur Free Agent,*6
+11,Ted Williams*\willite01,39,BOS,129,517,47,-1,-1,-17,-5,23,2.3,16,39,4.0,.519,.515,5.8,-2.4,56,$60000,Amateur Free Agent,*7
+12,Sherm Lollar\lollash01,33,CHW,127,491,15,1,-1,0,6,21,2.2,15,36,3.7,.518,.514,3.7,0.6,36,,Traded,*2
+13,Andy Carey\careyan01,26,NYY,102,366,14,-0,-0,5,1,19,2.0,11,30,3.2,.521,.513,2.7,0.6,26,,Amateur Free Agent,5
+14,Elston Howard\howarel01,29,NYY,103,406,13,-1,0,4,2,18,1.9,12,31,3.2,.520,.512,2.8,0.6,27,$17000,Purchased,27/93
+15,Nellie Fox*\foxne01,30,CHW,155,698,3,2,1,7,5,19,1.9,20,39,3.9,.513,.513,3.2,1.3,32,,Traded,*4
+16,Yogi Berra*\berrayo01,33,NYY,122,476,8,0,1,4,4,17,1.7,15,31,3.2,.515,.511,2.8,0.8,28,$60000,Amateur Free Agent,29/3
+17,Roy Sievers\sievero01,31,WSH,148,614,32,-0,-1,-7,-7,17,1.7,19,36,3.7,.512,.511,4.4,-1.6,43,$33000,Traded,*73
+18,Frank Bolling\bollifr01,26,DET,154,681,-4,3,1,12,5,16,1.7,20,36,3.7,.512,.511,2.4,1.9,24,,Amateur Free Agent,*4
+19,Bob Boyd*\boydbo01,38,BAL,125,432,14,-0,1,4,-5,13,1.4,13,27,2.7,.512,.509,2.3,-0.2,23,,Rule 5 Draft,3
+20,Frank Malzone\malzofr01,28,BOS,155,673,3,0,-1,10,2,14,1.4,20,34,3.4,.510,.509,2.4,1.2,24,,Amateur Free Agent,*5
+21,Jack Harshman*\harshja01,30,BAL,47,101,2,-0,-0,0,11,12,1.3,0,12,1.3,.528,.508,1.3,-0.0,12,,Traded,1/
+22,Jim Landis\landiji01,24,CHW,142,593,16,3,2,-7,-1,12,1.2,18,31,3.1,.510,.508,3.9,-0.9,38,,Amateur Free Agent,*8
+23,Gus Triandos\triangu01,27,BAL,137,544,12,0,-4,-3,7,12,1.2,17,29,2.9,.510,.508,3.3,0.4,32,,Traded,*2
+24,Hank Bauer\bauerha01,35,NYY,128,490,7,1,1,8,-5,11,1.1,15,26,2.7,.510,.508,1.9,0.2,19,,Amateur Free Agent,*9/7
+25,Gil McDougald\mcdougi01,30,NYY,138,578,-0,2,-0,5,5,12,1.1,18,29,3.0,.509,.508,2.5,1.0,25,$34000,Amateur Free Agent,*46
+26,Earl Torgeson*\torgeea01,34,CHW,96,236,12,2,-1,-1,-3,10,1.0,7,17,1.8,.511,.507,1.9,-0.4,18,,Traded,3
+27,Gene Woodling*\woodlge01,35,BAL,133,487,21,1,1,-7,-6,11,1.0,15,26,2.6,.508,.507,3.3,-1.5,32,,Traded,*97
+28,Don Larsen\larsedo01,28,NYY,28,57,4,-1,0,0,6,10,1.0,0,10,1.0,.536,.506,1.0,-0.0,10,$17000,Traded,1
+29,Jerry Lumpe*\lumpeje01,25,NYY,81,262,-0,2,2,6,1,10,1.0,8,18,1.8,.513,.507,1.2,0.7,12,,Amateur Free Agent,5/6
+30,Bob Nieman\niemabo01,31,BAL,105,414,28,-3,-1,-11,-4,10,0.9,13,22,2.2,.510,.506,3.4,-1.6,33,,Traded,7
+31,Tony Kubek*\kubekto01,22,NYY,138,597,-17,2,3,14,8,9,0.8,18,27,2.7,.507,.506,1.2,2.3,13,,Amateur Free Agent,*6/9348
+32,Billy Goodman*\goodmbi01,32,CHW,116,471,1,3,1,2,1,8,0.7,14,22,2.2,.507,.505,2.0,0.3,20,,Traded,*5/346
+33,Charlie Maxwell*\maxwech01,31,DET,131,466,8,2,2,2,-6,7,0.7,14,22,2.2,.506,.505,2.0,-0.5,20,,Purchased,*73/9
+34,Earl Battey\batteea01,23,CHW,68,198,-0,1,-0,4,2,7,0.7,6,13,1.3,.511,.505,0.9,0.7,9,,Amateur Free Agent,2
+35,Larry Doby*\dobyla01,34,CLE,89,276,10,1,-0,-3,-1,7,0.7,8,15,1.5,.508,.504,1.9,-0.5,19,$22000,Traded,8/79
+36,Jim Busby\busbyji01,31,BAL,113,245,-5,1,1,10,-0,6,0.6,8,14,1.4,.506,.504,0.3,1.0,4,,Traded,*8/5
+37,Hector Lopez\lopezhe01,28,KCA,151,631,-0,2,-3,4,4,7,0.6,19,26,2.6,.505,.505,2.2,0.8,22,,Purchased,45/76
+38,Red Wilson\wilsore01,29,DET,103,343,1,2,-0,-1,5,6,0.6,11,17,1.7,.507,.504,1.8,0.4,18,,Traded,2
+39,Billy Hoeft*\hoeftbi01,26,DET,43,50,-1,1,-0,0,6,5,0.5,0,5,0.5,.512,.503,0.5,-0.0,5,,Amateur Free Agent,1
+40,Paul Foytack\foytapa01,27,DET,39,88,-5,0,-0,0,10,5,0.5,0,5,0.5,.513,.503,0.5,-0.0,5,,Amateur Free Agent,1
+41,Whitey Ford*\fordwh01,29,NYY,30,84,-5,0,0,0,9,5,0.5,0,5,0.5,.517,.503,0.5,-0.0,5,$34000,Amateur Free Agent,1
+42,Gail Harris*\harriga01,26,DET,134,498,8,-0,0,4,-6,5,0.5,15,21,2.0,.504,.504,1.7,-0.3,17,,Traded,*3
+43,Art Ditmar\ditmaar01,29,NYY,38,48,-1,0,-0,0,5,4,0.4,0,4,0.4,.512,.503,0.4,-0.0,4,,Traded,1
+44,Murry Dickson\dicksmu01,41,2TM,34,46,-1,-0,0,0,5,4,0.4,0,4,0.4,.512,.502,0.4,-0.0,4,,Free Agency,1
+45,Johnny Callison*\callijo01,19,CHW,18,71,1,1,0,2,-1,4,0.4,2,6,0.6,.523,.503,0.4,0.1,4,,Amateur Free Agent,7
+46,Early Wynn#\wynnea01,38,CHW,40,88,-6,-0,-0,0,10,4,0.4,0,4,0.4,.510,.502,0.4,-0.0,4,,Traded,1
+47,Billy Pierce*\piercbi02,31,CHW,35,94,-7,-0,0,0,10,3,0.3,0,3,0.3,.510,.502,0.3,-0.0,3,,Traded,1
+48,Bobby Shantz\shantbo01,32,NYY,33,39,-2,0,0,0,4,3,0.3,0,3,0.3,.511,.502,0.3,0.0,3,$22500,Traded,1/8
+49,Enos Slaughter*\slaugen01,42,NYY,77,160,6,1,-0,-2,-2,4,0.3,5,8,0.8,.505,.502,1.0,-0.4,10,$18000,Waivers,97
+50,Bill Renna\rennabi01,33,BOS,39,62,3,0,-0,0,-0,3,0.3,2,5,0.5,.508,.502,0.5,0.0,4,,Traded,7
+51,Vito Valentinetti\valenvi01,29,2TM,38,31,-1,-0,0,0,3,3,0.3,0,3,0.3,.508,.501,0.3,-0.0,3,,Traded,1
+52,Bob Hale*\halebo01,24,BAL,19,22,2,0,-0,1,-0,2,0.2,1,3,0.3,.513,.502,0.2,0.1,2,,Amateur Free Agent,/3
+53,Gary Geiger*\geigega01,21,CLE,91,229,-6,0,1,8,-1,3,0.2,7,10,1.0,.503,.502,0.1,0.8,2,,Rule 5 Draft,8/9571
+54,Pete Daley\daleype01,28,BOS,27,64,2,-1,-1,0,1,2,0.2,2,4,0.4,.509,.502,0.4,0.1,4,,Amateur Free Agent,2
+55,Pedro Ramos#\ramospe01,23,WSH,53,96,-8,-0,0,0,11,2,0.2,0,2,0.2,.505,.502,0.2,-0.0,2,,Amateur Free Agent,1
+56,Bill Skowron\skowrbi01,27,NYY,126,502,4,1,-1,6,-6,3,0.2,15,18,1.8,.503,.502,1.2,-0.1,13,$20500,Amateur Free Agent,*3/5
+57,Bubba Phillips\phillbu02,30,CHW,84,286,-4,2,-1,7,-1,2,0.2,9,11,1.1,.503,.502,0.4,0.7,4,,Traded,578/9
+58,Gary Bell\bellga01,21,CLE,33,66,-5,-0,-0,0,7,2,0.2,0,2,0.2,.506,.501,0.2,-0.0,2,,Amateur Free Agent,1
+59,Tom Brewer\breweto01,26,BOS,42,89,-8,0,-0,0,10,2,0.2,0,2,0.2,.505,.501,0.2,-0.0,2,,Amateur Free Agent,1
+60,Ray Herbert\herbera01,28,KCA,42,59,-4,-1,-0,0,6,2,0.2,0,2,0.2,.505,.501,0.2,-0.0,2,,Purchased,1
+61,Dick Tomanek*\tomandi01,27,2TM,56,33,-2,-0,0,0,4,2,0.2,0,2,0.2,.503,.501,0.2,-0.0,2,,Amateur Free Agent,1
+62,Frank Baumann*\baumafr01,24,BOS,10,18,-1,0,0,0,2,2,0.2,0,2,0.2,.517,.501,0.2,0.0,2,,Amateur Free Agent,1
+63,Ray Moore\moorera02,32,CHW,32,51,-3,-1,-0,0,6,2,0.2,0,2,0.2,.505,.501,0.2,-0.0,2,,Traded,1
+64,John Romonosky\romonjo01,28,WSH,27,14,1,-1,0,0,2,2,0.2,0,2,0.2,.506,.501,0.2,-0.0,2,,Unknown,1
+65,Leo Burke\burkele02,24,BAL,7,12,2,0,0,-1,-0,2,0.2,0,2,0.2,.522,.501,0.3,-0.1,3,,Amateur Free Agent,/5879
+66,Russ Nixon*\nixonru01,23,CLE,113,395,3,-3,-1,-2,5,2,0.2,12,14,1.4,.502,.501,1.6,0.3,16,,Amateur Free Agent,2
+67,Jim Constable#\constji01,25,2TM,21,6,1,-0,0,0,1,1,0.1,0,1,0.1,.506,.500,0.1,0.0,1,,Waivers,/1
+68,Bill Fischer\fischbi01,27,3TM,42,17,-0,-0,-0,0,2,1,0.1,0,1,0.1,.503,.500,0.1,-0.0,1,,Unknown,1
+69,Ned Garver\garvene01,32,KCA,31,79,-7,-0,-0,0,9,1,0.1,0,1,0.1,.505,.501,0.1,-0.0,1,,Traded,1
+70,Charlie Lindstrom\lindsch02,21,CHW,1,2,1,0,0,0,0,1,0.1,0,1,0.1,.629,.501,0.1,0.0,1,,Amateur Free Agent,/2
+71,Willard Nixon*\nixonwi01,30,BOS,10,17,-1,-0,0,0,2,1,0.1,0,1,0.1,.512,.501,0.1,0.0,1,,Amateur Free Agent,1
+72,George Zuverink\zuverge01,33,BAL,45,10,-0,0,0,0,1,1,0.1,0,1,0.1,.503,.501,0.1,-0.0,1,,Waivers,1
+73,Wally Burnette\burnewa01,29,KCA,12,8,0,0,0,0,1,1,0.1,0,1,0.1,.509,.501,0.1,0.0,1,,Traded,1
+74,Vic Wertz*\wertzvi01,33,CLE,25,48,2,-0,-0,0,-0,1,0.1,1,3,0.3,.505,.501,0.2,-0.0,2,,Traded,/3
+75,Bob Lemon*\lemonbo01,37,CLE,15,14,-1,0,0,0,2,1,0.1,0,1,0.1,.507,.501,0.1,0.0,1,$35000,Amateur Free Agent,1
+76,Ray Narleski\narlera01,29,CLE,44,62,-5,-1,0,0,7,1,0.1,0,1,0.1,.502,.501,0.1,-0.0,1,,Amateur Free Agent,1
+77,Tom Sturdivant*\sturdto01,28,NYY,15,24,-1,0,-0,0,3,1,0.1,0,1,0.1,.508,.501,0.1,0.0,1,$18000,Amateur Free Agent,1
+78,Sammy Esposito\espossa01,26,CHW,98,97,-1,-0,-0,0,2,1,0.1,3,4,0.4,.501,.501,0.3,0.2,4,,Free Agency,56/47
+79,Carroll Hardy\hardyca01,25,CLE,27,58,-2,-0,0,3,-0,1,0.1,2,3,0.3,.504,.501,-0.1,0.3,-1,,Amateur Free Agent,8/9
+80,Turk Lown\lowntu01,34,CHW,27,10,-0,0,0,0,1,1,0.1,0,1,0.1,.503,.501,0.1,-0.0,1,,Waivers,1
+81,Harry Simpson*\simpsha01,32,2TM,102,297,1,-0,2,2,-4,1,0.1,9,10,1.0,.501,.501,0.8,-0.2,8,$12500,Traded,3/79
+82,Dave Sisler\sisleda01,26,BOS,30,60,-6,0,-0,0,7,1,0.1,0,1,0.1,.503,.501,0.1,-0.0,1,$9500,Amateur Free Agent,1
+83,Hank Aguirre\aguirha01,27,DET,44,15,-1,0,0,0,2,1,0.1,0,1,0.1,.502,.500,0.1,-0.0,1,,Traded,1
+84,Billy Harrell\harrebi01,29,CLE,101,248,-10,3,1,4,4,1,0.1,8,9,0.9,.501,.501,0.5,0.8,5,,Amateur Free Agent,56/49
+85,Connie Johnson\johnsco01,35,BAL,26,38,-3,0,-0,0,4,1,0.1,0,1,0.1,.503,.500,0.1,-0.0,1,,Traded,1
+86,Sal Maglie\maglisa01,41,NYY,7,7,-0,0,0,0,1,1,0.1,0,1,0.1,.510,.500,0.1,0.0,1,,Waivers,/1
+87,Billy O'Dell#\o'delbi01,25,BAL,42,82,-9,1,0,0,9,1,0.1,0,1,0.1,.502,.501,0.1,-0.0,1,,Amateur Free Agent--bonus baby,1
+88,Lou Klimchock*\klimclo01,18,KCA,2,10,-0,0,0,0,0,1,0.1,0,1,0.1,.531,.500,0.1,0.0,1,,Amateur Free Agent,/4
+89,Al Schroll\schroal01,26,BOS,5,1,0,0,0,0,0,0,0.1,0,0,0.1,.512,.500,0.1,0.0,0,,Amateur Free Agent,/1
+90,Lou Sleater*\sleatlo01,31,2TM,13,7,-0,0,0,0,1,1,0.1,0,1,0.1,.505,.500,0.1,0.0,1,$10500,Purchased,/1
+91,Harvey Kuenn\kuennha01,27,DET,139,619,11,-3,-1,-4,-1,2,0.1,18,20,1.9,.501,.501,2.4,-0.6,24,,Amateur Free Agent,*8
+92,Tom Qualters\qualtto01,23,CHW,26,4,0,-0,0,0,0,0,0.1,0,0,0.1,.502,.500,0.1,-0.0,0,,Purchased,1
+93,Herb Score*\scorehe01,25,CLE,12,13,-1,-0,0,0,1,0,0.1,0,0,0.1,.504,.500,0.1,0.0,0,,Amateur Free Agent,1
+94,Glenn Cox\coxgl01,27,KCA,2,1,0,0,0,0,0,0,0.0,0,0,0.0,.522,.500,0.0,0.0,0,,Purchased,/1
+95,Ryne Duren\durenry01,29,NYY,44,21,-2,-0,0,0,2,0,0.0,0,0,0.0,.501,.500,0.0,-0.0,0,,Traded,1
+96,Bob Kelly\kellybo01,30,CLE,13,5,-0,-0,0,0,1,0,0.0,0,0,0.0,.503,.500,0.0,0.0,0,,Traded,1
+97,Hal Naragon*\naragha01,29,CLE,9,9,0,0,0,0,0,0,0.0,0,1,0.1,.504,.500,0.1,0.0,1,,Amateur Free Agent,
+98,Joe Presko\preskjo01,29,DET,7,1,0,0,0,0,0,0,0.0,0,0,0.0,.506,.500,0.0,0.0,0,,Rule 5 Draft,/1
